@@ -1,0 +1,29 @@
+{% extends 'main.html' %}
+
+{% block content %}
+<br>
+<div class = "row">
+    <div class = "col-md-8" >
+        <h3>
+            Customer : {{customer}}
+        </h3>
+    </div> 
+</div>
+<div class = "row">
+    <div class = "col-md-8" >
+        <div class = "card card-body">
+            <form action ="" method = "POST" >
+                {% csrf_token %}
+                {{forms.management_form}}
+                {% for form in forms%}
+                <div> {{form}} </div>
+                {% endfor %}
+                <input class ="btn btn-sm btn-danger" type = "submit" name ="submit"> 
+            </form>
+        </div>
+    </div>
+</div>
+
+
+
+{% endblock%}
