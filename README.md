@@ -1,9 +1,12 @@
 ## Customer management web app 
 ### Framework: Django
-![alt text](readme/admin_authen.png)
+
 ### Admin authentication 
-
+![](admin_authen.png)
 ### Keep track of total number of orders
-
+![](admin_regis.png)
 ### Create & Update customer profile 
+![](customer_profile.png)
 ### Place orders for customer 
+![](place_order.png)
+
