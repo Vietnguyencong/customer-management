@@ -1,6 +1,7 @@
 ## Customer management web app 
 ### Framework: Django
-
+#### Link: https://customers-management-crm.herokuapp.com/
+![](customer.gif)
 ### Admin authentication 
 ![](admin_authen.png)
 ### Keep track of total number of orders
