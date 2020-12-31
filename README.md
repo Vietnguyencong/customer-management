@@ -7,6 +7,6 @@
 ![](admin_regis.png)
 ### Create & Update customer profile 
 ![](customer_profile.png)
-### Place orders for customer 
+### Place & search orders for customer 
 ![](place_order.png)
 
