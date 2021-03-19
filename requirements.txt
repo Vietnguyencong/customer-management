@@ -8,7 +8,7 @@ django==3.0.8
 docutils==0.15.2
 gunicorn==20.0.4
 jmespath==0.10.0
-pillow==7.2.0
+pillow==8.1.1
 python-dateutil==2.8.1
 pytz==2020.1
 s3transfer==0.3.3
