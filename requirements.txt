@@ -4,7 +4,7 @@ boto3==1.14.31
 botocore==1.17.31
 django-filter==2.3.0
 django-storages==1.9.1
-django==3.0.8
+django==3.0.14
 docutils==0.15.2
 gunicorn==20.0.4
 jmespath==0.10.0
